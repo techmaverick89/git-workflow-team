@@ -7,7 +7,7 @@ pipeline {
       }
     }
 
-    stage('') {
+    stage('Add script') {
       steps {
         sh 'echo "hello guys"'
       }
